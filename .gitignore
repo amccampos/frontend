@@ -1,0 +1,6 @@
+
+quiz-react/node_modules
+quiz-vue/node_modules
+quiz-angular/node_modules
+quiz-svelte/node_modules
+.vscode

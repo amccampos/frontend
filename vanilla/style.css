@@ -1,3 +1,30 @@
+
+body {
+  font-family: sans-serif;
+}
+
 .selected {
-    font-weight: bold;
+  font-weight: bold;
+}
+
+.questionPanel {
+  background-color: azure;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.m5 {
+  margin: 5px;
+}
+
+.resultPanel {
+  background-color: beige;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.submitBtn {
+  margin: 15px;
 }
