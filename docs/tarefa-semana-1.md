@@ -1,4 +1,4 @@
-# Tarefas da semana 1
+# Tarefas até 11 de setembro
 
 1. Defina a dupla com quem irá trabalhar (ou especifique que será um "lobo solitário").
 1. Escolha uma aplicação a ser desenvolvida, levando em consideração que haverão 4 versões da aplicação (React, Vue, Angular e Svelte). Assim, não deve ser uma aplicação complexa, nem precisa ter um visual rebuscado. Porém, deve ser diferente da apresentada ao longo do curso (Quiz) e ter:
