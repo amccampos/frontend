@@ -2,6 +2,12 @@
 
 Este curso irá trabalhar com 4 ferramentas de desenvolvimento: [React](https://pt-br.reactjs.org/), [Vue](https://vuejs.org/), [Angular](https://angular.io/) e [Svelte](https://svelte.dev/). É importante então que você prepare seu ambiente de trabalho para utilizá-las. Todas elas funcionam sobre o [Node](https://nodejs.org/), o que significa que é preciso instalá-lo antes de qualquer outra ferramenta. O curso prevê também que você desenvolva um projeto compartilhado com uma dupla (e o professor). Assim, é necessário ter o [Git](https://git-scm.com/) e um projeto compartilhado, seja no [Github](https://github.com/), [Bitbucket](https://bitbucket.org/) ou no [Gitlab](https://about.gitlab.com/) do [DIMAp](https://projetos.dimap.ufrn.br/) ou do [IMD](https://projetos.imd.ufrn.br/).
 
+## Ambientes na nuvem
+
+Há várias plataformas que vocês podem utilizar para criar seus projetos sem precisar instalar ferramentas localmente em seu computador. Duas delas que fornecem uma IDE completa para desenvolver aplicações são:
+* [Stackblitz](https://stackblitz.com/)
+* [Codesandbox](https://codesandbox.io/)
+
 ## Ferramentas básicas
 
 ### Node
